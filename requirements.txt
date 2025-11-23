@@ -1,0 +1,21 @@
+# Library Inventory Manager - Requirements
+# All dependencies are part of Python Standard Library
+
+# Note: This project uses only Python standard library modules
+# No external packages need to be installed
+
+# Python Standard Library modules used:
+# - json (for JSON file handling)
+# - pathlib (for file path operations)
+# - logging (for application logging)
+# - unittest (for testing)
+# - sys (for system operations)
+# - os (for operating system interface)
+
+# Minimum Python version required
+# python>=3.7
+
+# For development and testing (optional):
+# pytest>=7.0.0  # Alternative testing framework
+# pylint>=2.15.0  # Code quality checker
+# black>=22.0.0  # Code formatter
